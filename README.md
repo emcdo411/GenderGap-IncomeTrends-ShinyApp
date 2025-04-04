@@ -6,7 +6,7 @@ This interactive R Shiny app reveals key income disparities between genders and 
 
 ---
 
-## 🔗 Click here to launch the app! [http://127.0.0.1:3455/](#)
+## 🔗 Click here to launch the app! [Click here to launch the apphttp://127.0.0.1:3455/](http://127.0.0.1:3455/#)
 
 ---
 
